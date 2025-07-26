@@ -15,8 +15,8 @@ A passionate SDE-2 currently working in Loti Ai, Seattle, USA with strong proble
 - 🛠️ Building my own Node.js framework & frontend library publically.
 - 📅 Completed 180+ days of #buildinpublic #PearnInPublic
 - 📫 How to reach me: shagunsharma6677@gmail.com
-- 👨‍💻 All of my projects are available at https://github.com/shagunsharma6677
-- 🌐 Portfolio [https://shagunsharma6677.github.io/](https://shagunsharma6677.github.io/) 
+- 👨‍💻 All of my projects are available at https://github.com/nicck1
+- 🌐 Portfolio [https://nicck1.github.io/](https://nicck1.github.io/) 
 
 <div align="left">
 
